@@ -1,0 +1,5 @@
+{
+  "name": "creatorscripts",
+  "owner": { "name": "Creator Scripts" },
+  "plugins": [{ "name": "lean-connector-results", "source": "./" }]
+}

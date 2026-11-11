@@ -1,0 +1,9 @@
+{
+  "name": "lean-connector-results",
+  "version": "0.1.0",
+  "description": "Strips empty fields and system metadata from large connector (MCP) list results; leaves Deluge code, Make blueprints and records being edited untouched.",
+  "author": { "name": "Creator Scripts", "url": "https://creatorscripts.com" },
+  "homepage": "https://creatorscripts.com",
+  "repository": "https://github.com/creatorscripts/lean-connector-results",
+  "license": "MIT"
+}
